@@ -51,7 +51,7 @@ At various points during the lectures you fill find some **"Time to get your han
 
 The **main textbook** we will be using is:
 
-["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Željko, Andrew, Jacob, and Gray. Princeton University Press, 2012.
+["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Ivezić, Connolly, VanderPlas, Gray. Princeton University Press, 2012.
 
 It's a wonderful book that I keep on referring to in my research. The library has a few copies; you can also download a digital version from the Bicocca library website. What I really like about that book is that they provide the code behind each single figure: [astroml.org/book\_figures](https://www.astroml.org/book_figures/). The best way to approach these topics is to study the introduction on the book, then grab the code and try to play with it.  Make sure you get the updated edition of the book (that's the one with a black cover, not orange) because all the examples have been updated to python 3.   
 
