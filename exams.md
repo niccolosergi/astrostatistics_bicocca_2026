@@ -18,9 +18,9 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 ### When
 
 - Exams are by appointment only; the official exam dates are nominal. Exams take place in my office, U2-2007. Please send me an email and we’ll find a suitable day/time: [davide.gerosa@unimib.it](mailto:davide.gerosa@unimib.it).
-- While exams can, and generally will, take place outside the official exam dates, you must be registered for one of those dates on the portal before asking me for an exam appointment. This is important because the system asks you to fill out the student questionnaire *before* taking the exam.
+- While exams can, and generally will, take place outside the official exam dates, you must be registered for one of those dates on the portal before asking me for an exam appointment. This is important so the system asks you to fill out the student questionnaire *before* taking the exam.
 - As for all exams here, you’re more than welcome to come with a witness.
-- I’m very happy to be flexible with exam dates, and I value your time; I ask the same in return. If you’re not as prepared as you’d like and decide to decline the result, that’s okay, but I will ask you to wait about two months before coming back. This is equivalent to six exam attempts (*appelli*) per year.
+- I’m very happy to be flexible with exam dates, and I value your time; that applies to your end as well. If you’re not as prepared as you’d like and decide to decline the result, that’s okay, but I will ask you to wait about two months before coming back. This is equivalent to six exam attempts (*appelli*) per year.
 - All exam attempts must be registered on the official university portal, even if you do not get a passing grade, or if you get a passing grade but decline it. 
 
  
